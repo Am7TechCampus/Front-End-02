@@ -1,0 +1,72 @@
+ .card-img-top{
+           margin:15%;
+            height: 281px!important;
+            width:223px!important;
+            align-items: center;
+            
+        }
+        .course-card{
+            
+            margin-right:15px;
+            padding:16px;
+        }
+        .footer{
+            background-color:#343a40;
+        }
+.carousel-item img{
+    max-width: 50%;
+    margin: 0 auto;
+}
+.footer  h4{
+    padding:14px 16px;
+    
+}
+.col-md-3  h4 {
+    color:#fff;
+}
+.col-md-3  li{
+    
+    list-style: none;
+}
+.col-md-3 a{
+   color:#fff; 
+    
+    
+}
+.col-md-3 a:hover{
+    color:#ff6861;
+    text-decoration: none;
+}
+.col-md-3 p{
+    color:#fff;
+}
+.col-md-4 h4 {
+   color:#fff; 
+}
+.col-md-4 p {
+   color:#fff; 
+}
+.col-md-2  h4 {
+    color:#fff;
+}
+.col-md-2 a{
+   color:#fff; 
+    
+    
+}
+.col-md-2 a:hover{
+    color:#ff6861;
+    text-decoration: none;
+}
+.col-md-2  li{
+    
+    list-style: none;
+}
+.float-right img{
+    display: block;
+    float:right;
+    position: absolute;
+    margin-left: 100px;
+    margin-top:-240px;
+    
+}
